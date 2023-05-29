@@ -5,6 +5,10 @@
 
 ## changelog
 
+### V 1.2.0
+add MOD and DIV
+start adding IF and THEN
+
 ### V 1.1.0
 add datatype char
 
