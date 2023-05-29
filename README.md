@@ -1,6 +1,6 @@
 # lazarus_cheatsheet
 ## newest version
-**V 1.1.0**
+**V 1.2.0**
 <br>
 
 ## changelog
