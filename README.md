@@ -1,9 +1,13 @@
 # lazarus_cheatsheet
 ## newest version
-**V 1.2.1**
+**V 1.3.0**
 <br>
 
 ## changelog
+
+### V 1.3.0
+add IF and THEN
+add simple sorting
 
 ### V 1.2.1
 add Link to MOD and simplify
